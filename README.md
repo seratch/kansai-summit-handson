@@ -72,5 +72,5 @@ https://github.com/skinny-framework/skinny-framework-example/blob/master/src/mai
 
 ### skinny-engine-server で Sinatra 的に気軽に Web サーバ立ち上げてみよう
 
-skinny-engine-blank-app.zip を解凍して中身を触ってみる
+skinny-engine-blank-app.zip を解凍して中身を触ってみてください。これについてはあまりドキュメントがないので、わからないところがあれば聞いてください。
 
